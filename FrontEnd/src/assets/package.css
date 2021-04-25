@@ -82,7 +82,7 @@ a:focus{
 .input{
     height: 35px;
     font-size: 12pt;
-    width: 200px;
+    width: 350px;
     border: none;
     border-bottom: 2px solid lightgray;
     text-indent: 5px;
@@ -107,7 +107,7 @@ a:focus{
 /* input em cima da label */
 .input-model{
     display: flex;
-    width: 250px;
+    width: 350px;
     height: 55px;
     position: relative;
     align-items: flex-end;
